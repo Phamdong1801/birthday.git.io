@@ -2,7 +2,7 @@ $('#login-button').click(function (event) {
 	var userName=document.getElementById("userName").value;
     var pwd=document.getElementById("pwd").value;
 		//Đăng Nhập
-    if(userName=="1801" &&  pwd=="2000"){
+    if(userName=="0961350572" &&  pwd=="18012000"){
 			event.preventDefault();
 			$('form').fadeOut(500);
 			$('.wrapper').addClass('form-success');
